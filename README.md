@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg?v=3" alt="Рыба-ёж, fullstack разработчик" width="100%" />
+<img src="./banner.svg?v=4" alt="Рыба-ёж, fullstack разработчик" width="100%" />
 
 <br/>
 
@@ -31,7 +31,7 @@ const dev = {
   role:   "fullstack developer",
   layers: ["backend", "frontend", "свои AI-системы", "безопасность"],
   langs:  ["Python", "Kotlin", "Java", "TypeScript", "Rust", "C++", "C#", "Lua"],
-  rule:   "сначала разбираюсь в задаче, потом пишу код",
+  rule:   "всё, что можно автоматизировать, будет автоматизировано",
 };
 ```
 
