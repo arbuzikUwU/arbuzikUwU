@@ -1,23 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 12" width="1200" height="12" role="presentation">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 16" width="1200" height="16" role="presentation">
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/>
-      <stop offset="18%" stop-color="#22d3ee" stop-opacity=".9"/>
-      <stop offset="50%" stop-color="#a855f7" stop-opacity="1"/>
-      <stop offset="82%" stop-color="#f472b6" stop-opacity=".9"/>
-      <stop offset="100%" stop-color="#f472b6" stop-opacity="0"/>
+    <linearGradient id="dg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffc3cf" stop-opacity="0"/>
+      <stop offset="22%" stop-color="#ffc3cf" stop-opacity=".9"/>
+      <stop offset="52%" stop-color="#c9b6f2" stop-opacity=".9"/>
+      <stop offset="80%" stop-color="#9fd8c6" stop-opacity=".9"/>
+      <stop offset="100%" stop-color="#9fd8c6" stop-opacity="0"/>
     </linearGradient>
-    <filter id="b" x="-20%" y="-400%" width="140%" height="900%">
-      <feGaussianBlur stdDeviation="3"/>
-    </filter>
     <style>
-      .p { animation: p 4s ease-in-out infinite }
-      @keyframes p { 0%,100% { opacity:.45 } 50% { opacity:1 } }
-      .s { animation: s 7s linear infinite }
-      @keyframes s { 0% { transform: translateX(-200px) } 100% { transform: translateX(1300px) } }
+      .soft { animation: soft 8s ease-in-out infinite }
+      @keyframes soft { 0%,100% { opacity:.5 } 50% { opacity:1 } }
+      .walk { animation: walk 14s ease-in-out infinite }
+      @keyframes walk { 0% { transform: translateX(120px) } 50% { transform: translateX(1080px) } 100% { transform: translateX(120px) } }
     </style>
   </defs>
-  <rect x="0" y="5" width="1200" height="2" fill="url(#g)" filter="url(#b)" class="p"/>
-  <rect x="0" y="5.2" width="1200" height="1.6" rx="1" fill="url(#g)"/>
-  <g class="s"><circle cx="0" cy="6" r="3.2" fill="#ffffff" opacity=".85" filter="url(#b)"/></g>
+  <rect x="0" y="7" width="1200" height="1.6" rx="1" fill="url(#dg)" class="soft"/>
+  <g class="walk">
+    <circle cx="0" cy="8" r="4" fill="#fff6f8" stroke="#ffb3c4" stroke-width="1.4"/>
+  </g>
 </svg>
