@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Рыба-ёж, fullstack разработчик" width="100%" />
+<img src="./banner.svg?v=2" alt="Рыба-ёж, fullstack разработчик" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1300&color=38BDF8&center=true&vCenter=true&width=700&height=42&lines=%D0%95%D1%81%D0%BB%D0%B8%20%D0%B2%D1%8B%20%D0%BC%D0%BE%D0%B6%D0%B5%D1%82%D0%B5%20%D1%8D%D1%82%D0%BE%20%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D1%8C%2C%20%D1%8F%20%D1%81%D0%BC%D0%BE%D0%B3%D1%83%20%D1%8D%D1%82%D0%BE%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C;If%20you%20can%20imagine%20it%2C%20I%20can%20build%20it;Python%20%C2%B7%20Kotlin%20%C2%B7%20Java%20%C2%B7%20TypeScript%20%C2%B7%20Rust" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1300&color=38BDF8&center=true&vCenter=true&width=700&height=42&lines=%D0%A4%D1%83%D0%BB%D1%81%D1%82%D0%B5%D0%BA-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%3A%20%D0%B1%D1%8D%D0%BA%D0%B5%D0%BD%D0%B4%2C%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D1%8B%2C%20AI-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B;Fullstack%20developer%3A%20backend%2C%20web%2C%20own%20AI%20systems;Python%20%C2%B7%20Kotlin%20%C2%B7%20Java%20%C2%B7%20TypeScript%20%C2%B7%20Rust" alt="typing" />
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 <br/>
 
-### «Если вы можете это представить, я смогу это собрать»
+### «Если вы можете это представить, я смогу это реализовать»
 
 <sub>If you can imagine it, I can build it</sub>
 
@@ -31,7 +31,7 @@ const dev = {
   role:   "fullstack developer",
   layers: ["backend", "frontend", "свои AI-системы", "безопасность"],
   langs:  ["Python", "Kotlin", "Java", "TypeScript", "Rust", "C++", "C#", "Lua"],
-  motto:  "если вы можете это представить, я смогу это собрать",
+  rule:   "сначала разбираюсь в задаче, потом пишу код",
 };
 ```
 
