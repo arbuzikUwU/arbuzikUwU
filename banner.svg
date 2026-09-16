@@ -46,7 +46,7 @@
     <text class="t" x="78" y="128" font-size="72" font-weight="800" fill="url(#title)" filter="url(#soft)" opacity="0.5">Рыба-ёж</text>
     <text class="t" x="78" y="128" font-size="72" font-weight="800" fill="url(#title)">Рыба-ёж</text>
     <rect x="80" y="146" width="196" height="4" rx="2" fill="url(#bar)" class="pulse"/>
-    <text class="t" x="80" y="192" font-size="24" font-style="italic" font-weight="600" fill="#9fd8f7">«Если вы можете это представить, я смогу это собрать»</text>
+    <text class="t" x="80" y="192" font-size="24" font-style="italic" font-weight="600" fill="#9fd8f7">«Если вы можете это представить, я смогу это реализовать»</text>
     <text class="m" x="80" y="230" font-size="17" fill="#7f96b8" letter-spacing="1">fullstack разработчик<tspan fill="#38bdf8"> // </tspan>бэкенд<tspan fill="#38bdf8"> // </tspan>интерфейсы<tspan fill="#38bdf8"> // </tspan>свои AI-системы</text>
     <text class="m" x="80" y="268" font-size="17" fill="#64789a"><tspan fill="#22d3ee">$</tspan> <tspan fill="#c7d8ef">build --stack python,kotlin,java,typescript --ai own-systems</tspan><tspan class="cursor" fill="#7dd3fc"> _</tspan></text>
 
