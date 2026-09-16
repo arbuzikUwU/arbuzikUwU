@@ -69,20 +69,17 @@ const dev = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=arbuzikUwU&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=22d3ee&text_color=c9d1d9&ring_color=f472b6&include_all_commits=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbuzikUwU&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="top langs" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arbuzikUwU&theme=radical" alt="profile summary" width="88%" />
 
-<br/><br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arbuzikUwU&theme=radical" alt="stats" height="200" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arbuzikUwU&theme=radical" alt="most commit language" height="200" />
 
-<img src="https://streak-stats.demolab.com?user=arbuzikUwU&hide_border=true&background=0d1117&stroke=a855f7&ring=22d3ee&fire=f472b6&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=8b93b8&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" height="165" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arbuzikUwU&bg_color=0d1117&color=c9d1d9&line=a855f7&point=22d3ee&area=true&hide_border=true&area_color=a855f7" alt="activity graph" width="98%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arbuzikUwU&theme=radical" alt="repos per language" height="200" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arbuzikUwU&theme=radical&utcOffset=3" alt="productive time" height="200" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=arbuzikUwU&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+<img src="https://streak-stats.demolab.com?user=arbuzikUwU&hide_border=true&background=0d1117&stroke=a855f7&ring=22d3ee&fire=f472b6&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=8b93b8&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" height="170" />
 
 </div>
 
