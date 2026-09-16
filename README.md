@@ -1,52 +1,138 @@
+<div align="center">
+
 <img src="./banner.svg" alt="Рыба-ёж, fullstack разработчик" width="100%" />
 
 <br/>
 
-Привет, я Рыба-ёж.
-
-Фулстек: пишу бэкенд, собираю интерфейсы и подключаю всё это к базам и внешним API. Сильнее всего в Python, уверенно пишу на Kotlin и Java, во фронтенде работаю с React и TypeScript.
-
-Отдельная тема для меня, информационная безопасность. Много практики в Kali Linux на своих тестовых серверах: разбираю сетевой трафик, ищу дырки в своих же сервисах и закрываю их.
-
-Сейчас смотрю на позиции уровня middle. Интереснее всего проекты, где есть AI или безопасность.
-
-<img src="./divider.svg" width="100%" alt="" />
-
-## Стек
-
-<img src="./stack.svg" width="100%" alt="Стек: языки, бэкенд, фронтенд, AI, инструменты, безопасность" />
-
-## Что делаю руками
-
-- сервисы и API на Python: схема данных, логика, документация
-- телеграм-боты с очередями, платежами и интеграцией LLM
-- веб-интерфейсы на React и TypeScript
-- моды и плагины для Minecraft на Kotlin и Java
-- игровые прототипы в Unity
-
-## Как работаю
-
-- читаемый код и понятные коммиты, чтобы через месяц в нём можно было разобраться
-- тесты там, где они реально спасают, а не ради галочки
-- сначала разбираюсь в задаче, потом пишу код
-
-<img src="./divider.svg" width="100%" alt="" />
-
-## Связаться
-
-[Telegram](https://t.me/arbuzdik) &nbsp; · &nbsp; [VK](https://vk.com/arbyzdi) &nbsp; · &nbsp; [impulseoffiproject@gmail.com](mailto:impulseoffiproject@gmail.com)
-
-<details>
-<summary>English</summary>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1300&color=38BDF8&center=true&vCenter=true&width=700&height=42&lines=%D0%A4%D1%83%D0%BB%D1%81%D1%82%D0%B5%D0%BA-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%3A%20%D0%B1%D1%8D%D0%BA%D0%B5%D0%BD%D0%B4%2C%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D1%8B%2C%20%D0%B1%D0%BE%D1%82%D1%8B;Fullstack%20developer%3A%20backend%2C%20web%2C%20bots;Python%20%C2%B7%20Kotlin%20%C2%B7%20Java%20%C2%B7%20TypeScript%20%C2%B7%20Rust" alt="typing" />
 
 <br/>
 
-Hi, I am arbuzik.
+<img src="https://komarev.com/ghpvc/?username=arbuzikUwU&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="views" />
+<a href="https://github.com/arbuzikUwU?tab=followers">
+  <img src="https://img.shields.io/github/followers/arbuzikUwU?style=for-the-badge&color=38bdf8&labelColor=0b1a33&logo=github" alt="followers" />
+</a>
 
-Fullstack developer: backend, interfaces, databases and third party APIs. Python is my strongest language, I am comfortable with Kotlin and Java, and I use React with TypeScript on the front end.
+</div>
 
-Information security is my second focus. Plenty of hands on practice with Kali Linux on my own test servers: reading network traffic, finding holes in my own services and closing them.
+<img src="./divider.svg" width="100%" alt="" />
 
-Currently looking at middle level roles, most interested in projects involving AI or security.
+## 👋 Привет! / Hey there!
 
-</details>
+```ts
+const dev = {
+  alias:  "Рыба-ёж",
+  role:   "fullstack developer",
+  layers: ["backend", "frontend", "bots", "AI & automation"],
+  langs:  ["Python", "Kotlin", "Java", "TypeScript", "Rust", "C++", "C#", "Lua"],
+  rule:   "сначала разбираюсь в задаче, потом пишу код",
+};
+```
+
+**🇷🇺 Русский** - фулстек-разработчик: пишу бэкенд, собираю интерфейсы и подключаю всё это к базам и внешним API. Сильнее всего в Python, уверенно пишу на Kotlin и Java, во фронтенде работаю с React и TypeScript. Отдельная тема для меня, информационная безопасность: много практики в Kali Linux на своих тестовых серверах. Сейчас смотрю на позиции уровня middle, интереснее всего проекты с AI или безопасностью.
+
+**🇬🇧 English** - fullstack developer: backends, interfaces, databases and third party APIs. Python is my strongest language, I am comfortable with Kotlin and Java, and I use React with TypeScript on the front end. Information security is my second focus, with plenty of hands on practice in Kali Linux on my own test servers. Currently looking at middle level roles, most interested in projects with AI or security.
+
+<br/>
+
+## 🧰 Стек / Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,kotlin,java,ts,js,rust,cpp,cs,lua,html,css&theme=dark" alt="languages" />
+
+<br/><br/>
+
+**Backend & data**
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,postgres,sqlite,redis,nginx&theme=dark" alt="backend" />
+
+<br/><br/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,sass,figma&theme=dark" alt="frontend" />
+
+<br/><br/>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,githubactions,docker,linux,gradle,unity,vscode,idea&theme=dark" alt="tools" />
+
+<br/>
+
+![Backend](https://img.shields.io/badge/BACKEND-Python_/_FastAPI-0b1a33?style=for-the-badge&labelColor=0ea5e9)
+![JVM](https://img.shields.io/badge/JVM-Kotlin_/_Java-0b1a33?style=for-the-badge&labelColor=2563eb)
+![Frontend](https://img.shields.io/badge/FRONTEND-React_/_TypeScript-0b1a33?style=for-the-badge&labelColor=22d3ee)
+
+![Database](https://img.shields.io/badge/DB-PostgreSQL_/_SQLite-0b1a33?style=for-the-badge&labelColor=38bdf8)
+![DevOps](https://img.shields.io/badge/DEVOPS-Docker_/_Nginx_/_Linux-0b1a33?style=for-the-badge&labelColor=1d4ed8)
+![AI](https://img.shields.io/badge/AI-LLM_API_/_RAG-0b1a33?style=for-the-badge&labelColor=0284c7)
+![Security](https://img.shields.io/badge/SECURITY-Kali_/_Nmap_/_Wireshark-0b1a33?style=for-the-badge&labelColor=0891b2)
+
+</div>
+
+<br/>
+
+## 🚀 Чем занимаюсь / What I do
+
+<div align="center">
+<table>
+<tr>
+<td width="25%" valign="top">
+
+### ⚙️ Бэкенд
+Сервисы и API: схема данных, логика, документация.
+
+<sub>Python, FastAPI, PostgreSQL</sub>
+
+</td>
+<td width="25%" valign="top">
+
+### 🖥 Фронтенд
+Веб-интерфейсы, от вёрстки до логики на TypeScript.
+
+<sub>React, Next.js, Tailwind</sub>
+
+</td>
+<td width="25%" valign="top">
+
+### 🤖 Боты и AI
+Телеграм-боты, автоматизация рутины, интеграция LLM.
+
+<sub>aiogram, LLM API</sub>
+
+</td>
+<td width="25%" valign="top">
+
+### 🛡 Безопасность
+Разбор трафика, поиск и закрытие дырок в своих сервисах.
+
+<sub>Kali Linux, Nmap, Wireshark</sub>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+## 🌐 Связаться / Get in touch
+
+<div align="center">
+
+<a href="https://t.me/arbuzdik">
+  <img src="https://img.shields.io/badge/Telegram-%40arbuzdik-0b1a33?style=for-the-badge&logo=telegram&logoColor=38bdf8" alt="telegram" />
+</a>
+<a href="https://vk.com/arbyzdi">
+  <img src="https://img.shields.io/badge/VK-arbyzdi-0b1a33?style=for-the-badge&logo=vk&logoColor=60a5fa" alt="vk" />
+</a>
+<a href="mailto:impulseoffiproject@gmail.com">
+  <img src="https://img.shields.io/badge/Email-impulseoffiproject%40gmail.com-0b1a33?style=for-the-badge&logo=gmail&logoColor=22d3ee" alt="email" />
+</a>
+
+</div>
+
+<img src="./divider.svg" width="100%" alt="" />
