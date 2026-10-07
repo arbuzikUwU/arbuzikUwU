@@ -2,7 +2,7 @@
 
 <img src="./banner.png" width="100%" alt="" />
 
-# Рыба-ёж
+# Рыба-ёж :З
 
 **fullstack · AI · security**
 
